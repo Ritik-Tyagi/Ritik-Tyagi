@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://ritik-tyagiportfolio.netlify.app](https://ritik-tyagiportfolio.netlify.app)
 
-- 💬 Ask me about **Python,Html,css,js**
+- 💬 Ask me about **Python,Html,css,js,React**
 
 - 📫 How to reach me **ritiktag6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SS65mOih9ESTKkig1zdti9hzV7tP3dUf/view?usp=sharing](https://drive.google.com/file/d/1SS65mOih9ESTKkig1zdti9hzV7tP3dUf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aF84Rx1Nqc8e_yRrGfLj4BPkPE0GzJOy/view?usp=sharing)
 
 - ⚡ Fun fact **Do Something New**
 

@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik-tyagi&show_icons=true&locale=en" alt="ritik-tyagi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-tyagi&" alt="ritik-tyagi" /></p>
+
